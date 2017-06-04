@@ -1,0 +1,61 @@
+﻿#adm_body_div {
+    box-shadow: 5px 0 6px -4px #888888, -5px 0 3px -4px #888888;
+    
+    min-height: 750px;
+}
+#adm_menu_left {
+    min-height: 650px;
+    margin-left: -14px;
+    width: 18%;
+    background-color: #EEEEEE;
+    margin-top: 50px;
+    float: left;
+    border-right: 1px solid #AAAAAA;
+    position: fixed;
+}
+
+#adm_form{
+    position:relative;
+    min-height: 650px;
+    height: auto;
+    width: 79.5%;
+    float: right;
+    /*background-color: #DDDDDD;*/
+    margin-top: 55px;
+}
+
+
+#add_std,  #make_arrange, #make_pub_routine, #pr_gen, #es_req, #make_pub_dr {
+    display: none;
+}
+
+#view_arrange {
+    display: none;
+}
+ #add_teacher{
+     display: none;
+}
+.form-group #Label1 {
+    display: block;
+}
+.form-horizontal .control-label{
+    text-align: left;
+}
+
+#home_img_div {
+    height:300px;
+    width: 28%;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-left: 20px;
+}
+
+
+
+#home_info_div {
+    min-height:300px;
+    width: 65%;
+    /*border: 1px solid red;*/
+    float: right;
+    margin-right: 20px;
+}

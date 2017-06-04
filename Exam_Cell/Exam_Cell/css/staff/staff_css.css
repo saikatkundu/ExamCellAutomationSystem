@@ -1,0 +1,43 @@
+﻿* {
+    font-family: "Times New Roman", Times, serif;
+}
+#staff_mnu_left {
+    min-height: 60px;
+    width: 20%;
+    background-color: #DDDDDD;
+    margin-top: 55px;
+    float: left;
+}
+
+#staff_form{
+    min-height: 400px;
+    width: 79.5%;
+    float: right;
+    background-color: #DDDDDD;
+    margin-top: 55px;
+    background: !important;
+    
+}
+#enter_res {
+    min-height: 400px;
+    width: 79.5%;
+    float: right;
+    background-color: #DDDDDD;
+    margin-top: 55px;
+    background: !important;
+}
+
+.form-horizontal .control-label{
+    text-align: left;
+}
+h4 {
+    color: #00CC33;
+}
+h3 {
+    color: #0066CC;
+}
+
+
+ #submit_res, #exm_requirement, #view_duty {
+    display: none;
+}
